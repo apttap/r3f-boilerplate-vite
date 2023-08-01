@@ -1,6 +1,6 @@
 # r3f-boilerplate-vite
 
-A frontend boilerplate to get up and running with react-three-fiber, vite, typescript, glsl shader support, HMR, react-spring, and react-three-a11y
+react-three-fiber, vite, typescript, glsl shader support, HMR, react-spring, and react-three-a11y
 
 ### Installation
 
